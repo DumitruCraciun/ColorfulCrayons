@@ -9,7 +9,7 @@ body {
     background-color: #f5f5f5;
     color: #333;
     line-height: 1.6;
-    padding-top: 80px;              /*Prevent page to hiding under the header */
+    padding-top: 70px;              /*Prevent page to hiding under the header */
 }
 
 /* HEADER - primul FlexBox! */
